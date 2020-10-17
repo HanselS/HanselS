@@ -8,6 +8,8 @@ I am a Computer Science and Mathematics Student at Bina Nusantara University. Ma
 
 ### 📫 You can reach me on:
 * LinkedIn: [Hansel Susanto](https://www.linkedin.com/in/hansels/)
+* Email: [hansel@mtsstudio.dev](mailto:hansel@mtsstudio.dev)
+
 
 <!--
 **hansels/hansels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
